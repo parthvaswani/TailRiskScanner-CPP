@@ -1,0 +1,7 @@
+/build/
+/bin/
+/config/app_config.json
+*.env
+.idea/
+.vscode/
+*.code-workspace

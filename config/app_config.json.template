@@ -1,0 +1,14 @@
+{
+  "ibkr": {
+    "host": "127.0.0.1",
+    "port": 7497,
+    "client_id": 42
+  },
+  "scanner": {
+    "symbols": ["CACC", "CPSS", "CRMT"],
+    "minimum_dte": 365,
+    "maximum_put_delta": -0.20,
+    "minimum_asymmetry_ratio": 1.2,
+    "risk_free_rate": 0.04
+  }
+}
